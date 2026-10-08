@@ -1,6 +1,6 @@
 ---
 title: "Untitled"
-author: "Nina"
+author: "Just Nina"
 format: html
 editor: visual
 ---
